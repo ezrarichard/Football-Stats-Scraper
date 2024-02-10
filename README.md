@@ -37,9 +37,14 @@ Finally, the cleaned DataFrame is saved as a CSV file named after the selected l
 
 # Dependencies
 Python 3.x
+
 pandas: For data manipulation
+
 requests: For making HTTP requests
+
 BeautifulSoup: For HTML parsing
+
+
 
 After running the script, follow the on-screen prompts to select the desired league. The script will then scrape the data, process it, and save it as a CSV file.
 
