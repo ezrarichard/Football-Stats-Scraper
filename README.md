@@ -87,3 +87,7 @@ You can run the Python script directly from GitHub using either Binder or Google
 3. Select the "GitHub" tab.
 4. Paste the GitHub URL of the repository containing your Python file [Football-Stats_Scraper](https://github.com/ezrarichard/Football-Stats-Scraper.git). 
 5. Select the Python file you want to open.
+
+
+## Support
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-Donate-yellow.svg)](https://www.buymeacoffee.com/ezrarichard)
